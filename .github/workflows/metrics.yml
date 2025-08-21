@@ -17,3 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.calendar.full.svg
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
