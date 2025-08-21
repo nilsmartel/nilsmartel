@@ -12,5 +12,7 @@ I maintain tools such as
 - [ChordLLM](https://github.com/nilsmartel/ChordLLM): DataScience and ML project to create an Chord Progression "AI". Work focuses on data gathering and extraction, as well as concrete implementation and training of LM
 
 ---
+![Commit History](/metrics.plugin.calendar.full.svg)
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nilsmartel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
