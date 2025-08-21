@@ -10,9 +10,9 @@ I maintain tools such as
 - [shell string](https://github.com/nilsmartel/string): CLI making common string operations available and readable + easily do templating
 - [solar programming language](https://github.com/solar-lang/): Programming language focussing on simplicity, fun while typing and sensible defaults for swift development of scripts and services
 - [ChordLLM](https://github.com/nilsmartel/ChordLLM): DataScience and ML project to create an Chord Progression "AI". Work focuses on data gathering and extraction, as well as concrete implementation and training of LM
-
----
-![Commit History](/metrics.plugin.calendar.full.svg)
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nilsmartel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+![Commit History](/metrics.plugin.calendar.full.svg)
+
