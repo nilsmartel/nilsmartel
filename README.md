@@ -9,7 +9,11 @@ I maintain tools such as
 - [solar programming language](https://github.com/solar-lang/): Programming language focussing on simplicity, fun while typing and sensible defaults for swift development of scripts and services
 - [ChordLLM](https://github.com/nilsmartel/ChordLLM): DataScience and ML project to create an Chord Progression "AI". Work focuses on data gathering and extraction, as well as concrete implementation and training of LM
 
-Implementations of Compression Algorithms (and custom compression algorithms)
+## Compression Schemes
+
+I maintain a couple of implementations of Compression Algorithms
+and a custom compression algorithms finetuned for general application
+
 - [group varint offset encoding](https://github.com/nilsmartel/group-varint-offset-encoding): Lossless Integer compression with good compression rate, even with outliers.
 - [vybte encoding](https://github.com/nilsmartel/vbyte-compression): Lossless Compression following vbyte compresion standard, adapted for easy usage.
 - [quick-compression](https://github.com/nilsmartel/quick-compression): Custom compression algorithm that generalizes very well
