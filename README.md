@@ -1,4 +1,4 @@
-### Hello there! I'm Nils!
+### Hello there, I'm Nils!
 
 I started programming back in ~2010, love coding and
 I'm fascinated about everything in computer science :)
