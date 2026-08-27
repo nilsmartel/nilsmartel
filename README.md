@@ -1,7 +1,7 @@
-### Hello there! I'm Nils
+### Hello there! I'm Nils!
 
-<img src="./ghibli_avatar.png" style="float: right; height: 10cm" />
-I enjoy coding and I'm enthusiastic about many things computer science :)
+I started programming back in ~2010, love coding and
+I'm fascinated about everything in computer science :)
 
 ## Open Source Tools
 
